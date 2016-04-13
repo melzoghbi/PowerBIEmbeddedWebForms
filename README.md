@@ -15,4 +15,7 @@ Power BI Embedded Simple ASP.NET Web Forms Application
 If you are new to Power BI Embedded, I have a blog post show how to use Power BI Embedded in your application:
 http://www.mostafaelzoghbi.com/2016/04/power-bi-embedded-step-by-step.html 
 
+If you are looking for the asp.net MVC sample, it is here:
+https://github.com/melzoghbi/PowerBIEmbeddedSimplified
+
 Enjoy.
